@@ -67,4 +67,27 @@ $("document").ready(function () {
     });
 });
 
+css file:
+
+
+table, td, th {
+    border: 1px solid black;
+    padding:10px;
+}
+#tborder {
+    font-family: sans-serif;
+    background-color: #e8dcff;
+    border-collapse:collapse;
+}
+input {
+    background-color: #feffb0;
+    font-weight: bold;
+    text-align: right;
+}
+
+#result {
+    color: #174c68;
+    font-weight: bold;
+    font-size: 18px;
+}
 
